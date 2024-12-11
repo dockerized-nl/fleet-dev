@@ -1,0 +1,5 @@
+resources:
+- cm.yaml
+- deployment.yaml
+- pvc.yaml
+- roles.yaml
